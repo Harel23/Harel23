@@ -1,0 +1,7 @@
+echo "# Harel23" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primer compromiso" 
+git branch -M main 
+git remote agregar origen https://github.com/Harel23/Harel23.git
+ git push - u origen principal
